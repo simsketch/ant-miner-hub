@@ -1,0 +1,173 @@
+[Thu Apr 12 06:25:04.447355 2018] [mpm_prefork:notice] [pid 509] AH00163: Apache/2.4.10 (Debian) OpenSSL/1.0.1t configured -- resuming normal operations
+[Thu Apr 12 06:25:04.447391 2018] [core:notice] [pid 509] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 09:08:42.022941 2018] [:error] [pid 1787] [client 76.110.156.91:52292] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 09:08:42.023033 2018] [:error] [pid 1787] [client 76.110.156.91:52292] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 10:21:45.298846 2018] [:error] [pid 1788] [client 76.110.156.91:51192] PHP Notice:  Undefined variable: userHeaders in /var/www/ant-miner-hub/confirmation.php on line 265
+[Thu Apr 12 11:08:14.233887 2018] [ssl:error] [pid 1785] AH02032: Hostname localhost provided via SNI and hostname 158.69.206.102 provided via HTTP are different
+[Thu Apr 12 13:43:16.904990 2018] [:error] [pid 1786] [client 76.110.156.91:49874] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 13:43:16.905176 2018] [:error] [pid 1786] [client 76.110.156.91:49874] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:11:24.012392 2018] [:error] [pid 2570] [client 76.110.156.91:50452] PHP Warning:  get_object_vars() expects parameter 1 to be object, string given in /var/www/ant-miner-hub/cart.php on line 7
+[Thu Apr 12 14:11:24.012630 2018] [:error] [pid 2570] [client 76.110.156.91:50452] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:11:24.012651 2018] [:error] [pid 2570] [client 76.110.156.91:50452] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:11:25.123306 2018] [:error] [pid 2570] [client 76.110.156.91:50452] PHP Warning:  get_object_vars() expects parameter 1 to be object, string given in /var/www/ant-miner-hub/cart.php on line 7
+[Thu Apr 12 14:11:25.123353 2018] [:error] [pid 2570] [client 76.110.156.91:50452] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:11:25.123366 2018] [:error] [pid 2570] [client 76.110.156.91:50452] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:11:42.581415 2018] [:error] [pid 1787] [client 76.110.156.91:50484] PHP Warning:  get_object_vars() expects parameter 1 to be object, string given in /var/www/ant-miner-hub/cart.php on line 7
+[Thu Apr 12 14:11:42.581470 2018] [:error] [pid 1787] [client 76.110.156.91:50484] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:11:42.581480 2018] [:error] [pid 1787] [client 76.110.156.91:50484] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:11:43.947426 2018] [:error] [pid 1787] [client 76.110.156.91:50484] PHP Warning:  get_object_vars() expects parameter 1 to be object, string given in /var/www/ant-miner-hub/cart.php on line 7
+[Thu Apr 12 14:11:43.947469 2018] [:error] [pid 1787] [client 76.110.156.91:50484] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:11:43.947480 2018] [:error] [pid 1787] [client 76.110.156.91:50484] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:20.691495 2018] [:error] [pid 2568] [client 76.110.156.91:50545] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:20.691617 2018] [:error] [pid 2568] [client 76.110.156.91:50545] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:20.691628 2018] [:error] [pid 2568] [client 76.110.156.91:50545] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:20.691634 2018] [:error] [pid 2568] [client 76.110.156.91:50545] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:20.691712 2018] [:error] [pid 2568] [client 76.110.156.91:50545] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:12:20.691719 2018] [:error] [pid 2568] [client 76.110.156.91:50545] PHP Warning:  Illegal string offset 'description' in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:12:20.691725 2018] [:error] [pid 2568] [client 76.110.156.91:50545] PHP Warning:  Illegal string offset 'price' in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:12:20.691736 2018] [:error] [pid 2568] [client 76.110.156.91:50545] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:20.691742 2018] [:error] [pid 2568] [client 76.110.156.91:50545] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:20.691748 2018] [:error] [pid 2568] [client 76.110.156.91:50545] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:20.691753 2018] [:error] [pid 2568] [client 76.110.156.91:50545] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:20.691757 2018] [:error] [pid 2568] [client 76.110.156.91:50545] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:20.691762 2018] [:error] [pid 2568] [client 76.110.156.91:50545] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:20.691767 2018] [:error] [pid 2568] [client 76.110.156.91:50545] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:57.717335 2018] [:error] [pid 1787] [client 76.110.156.91:50604] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:57.717390 2018] [:error] [pid 1787] [client 76.110.156.91:50604] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:57.717397 2018] [:error] [pid 1787] [client 76.110.156.91:50604] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:57.717402 2018] [:error] [pid 1787] [client 76.110.156.91:50604] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:57.717411 2018] [:error] [pid 1787] [client 76.110.156.91:50604] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:12:57.717417 2018] [:error] [pid 1787] [client 76.110.156.91:50604] PHP Warning:  Illegal string offset 'description' in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:12:57.717423 2018] [:error] [pid 1787] [client 76.110.156.91:50604] PHP Warning:  Illegal string offset 'price' in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:12:57.717430 2018] [:error] [pid 1787] [client 76.110.156.91:50604] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:57.717435 2018] [:error] [pid 1787] [client 76.110.156.91:50604] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:57.717440 2018] [:error] [pid 1787] [client 76.110.156.91:50604] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:57.717446 2018] [:error] [pid 1787] [client 76.110.156.91:50604] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:57.717451 2018] [:error] [pid 1787] [client 76.110.156.91:50604] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:57.717456 2018] [:error] [pid 1787] [client 76.110.156.91:50604] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:12:57.717461 2018] [:error] [pid 1787] [client 76.110.156.91:50604] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:13:28.626670 2018] [:error] [pid 2171] [client 76.110.156.91:50649] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:13:39.132729 2018] [:error] [pid 2170] [client 76.110.156.91:50666] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:14:15.860205 2018] [:error] [pid 1788] [client 76.110.156.91:50726] PHP Warning:  array_keys() expects parameter 1 to be array, object given in /var/www/ant-miner-hub/cart.php on line 7
+[Thu Apr 12 14:14:15.860275 2018] [:error] [pid 1788] [client 76.110.156.91:50726] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:14:23.591614 2018] [:error] [pid 2570] [client 76.110.156.91:50740] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:16:54.634275 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 0 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:54.634336 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 1 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:54.634345 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 2 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:54.634352 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 3 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:54.634358 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 4 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:54.634363 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 5 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:54.634368 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 6 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:54.634374 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 7 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:54.634379 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 8 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:54.634384 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 9 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:54.634390 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 10 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:56.741059 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 0 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:56.741100 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 1 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:56.741108 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 2 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:56.741113 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 3 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:56.741118 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 4 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:56.741121 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 5 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:56.741124 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 6 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:56.741127 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 7 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:56.741148 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 8 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:56.741153 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 9 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:16:56.741158 2018] [:error] [pid 1785] [client 76.110.156.91:50978] PHP Notice:  Undefined offset: 10 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:17:08.963915 2018] [:error] [pid 1810] [client 76.110.156.91:51001] PHP Notice:  Undefined offset: 0 in /var/www/ant-miner-hub/cart.php on line 8
+[Thu Apr 12 14:17:09.788266 2018] [:error] [pid 1810] [client 76.110.156.91:51001] PHP Notice:  Undefined offset: 0 in /var/www/ant-miner-hub/cart.php on line 8
+[Thu Apr 12 14:17:10.888461 2018] [:error] [pid 1810] [client 76.110.156.91:51001] PHP Notice:  Undefined offset: 0 in /var/www/ant-miner-hub/cart.php on line 8
+[Thu Apr 12 14:18:01.189690 2018] [:error] [pid 1785] [client 76.110.156.91:51077] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:18:02.128029 2018] [:error] [pid 1810] [client 76.110.156.91:51078] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:18:03.578844 2018] [:error] [pid 2568] [client 76.110.156.91:51081] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:18:32.650344 2018] [:error] [pid 2171] [client 76.110.156.91:51131] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:19:01.848446 2018] [:error] [pid 1787] [client 76.110.156.91:51176] PHP Notice:  Undefined offset: 0 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:19:03.569981 2018] [:error] [pid 1787] [client 76.110.156.91:51176] PHP Notice:  Undefined offset: 0 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:19:10.622319 2018] [:error] [pid 1788] [client 76.110.156.91:51177] PHP Notice:  Undefined offset: 0 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:19:21.078563 2018] [:error] [pid 2170] [client 76.110.156.91:51207] PHP Notice:  Undefined offset: 0 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:19:33.166962 2018] [:error] [pid 1785] [client 76.110.156.91:51227] PHP Notice:  Undefined offset: 0 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:19:33.166996 2018] [:error] [pid 1785] [client 76.110.156.91:51227] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:19:34.474479 2018] [:error] [pid 1786] [client 76.110.156.91:51228] PHP Notice:  Undefined offset: 0 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:19:34.474535 2018] [:error] [pid 1786] [client 76.110.156.91:51228] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:19:43.171158 2018] [:error] [pid 1810] [client 76.110.156.91:51229] PHP Notice:  Undefined offset: 0 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:19:43.171197 2018] [:error] [pid 1810] [client 76.110.156.91:51229] PHP Notice:  Use of undefined constant qty - assumed 'qty' in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:19:43.171208 2018] [:error] [pid 1810] [client 76.110.156.91:51229] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:19:51.767246 2018] [:error] [pid 2570] [client 76.110.156.91:51242] PHP Notice:  Undefined offset: 0 in /var/www/ant-miner-hub/cart.php on line 9
+[Thu Apr 12 14:20:27.819541 2018] [:error] [pid 2568] [client 76.110.156.91:51311] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 6
+[Thu Apr 12 14:20:28.923219 2018] [:error] [pid 1785] [client 76.110.156.91:51312] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 6
+[Thu Apr 12 14:21:02.473382 2018] [:error] [pid 1787] [client 76.110.156.91:51364] PHP Notice:  Array to string conversion in /var/www/ant-miner-hub/cart.php on line 8
+[Thu Apr 12 14:21:52.560270 2018] [:error] [pid 1810] [client 76.110.156.91:51434] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 10
+[Thu Apr 12 14:24:28.419778 2018] [:error] [pid 2170] [client 76.110.156.91:51683] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 13
+[Thu Apr 12 14:24:55.396902 2018] [:error] [pid 1788] [client 76.110.156.91:51722] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 13
+[Thu Apr 12 14:25:49.965634 2018] [:error] [pid 2170] [client 76.110.156.91:51808] PHP Warning:  Invalid argument supplied for foreach() in /var/www/ant-miner-hub/cart.php on line 12
+[Thu Apr 12 14:26:16.615142 2018] [:error] [pid 2171] [client 76.110.156.91:51850] PHP Warning:  Invalid argument supplied for foreach() in /var/www/ant-miner-hub/cart.php on line 13
+[Thu Apr 12 14:26:17.469822 2018] [:error] [pid 2171] [client 76.110.156.91:51850] PHP Warning:  Invalid argument supplied for foreach() in /var/www/ant-miner-hub/cart.php on line 13
+[Thu Apr 12 14:32:31.816510 2018] [:error] [pid 1790] [client 76.110.156.91:52389] PHP Warning:  Invalid argument supplied for foreach() in /var/www/ant-miner-hub/cart.php on line 13
+[Thu Apr 12 14:32:59.586960 2018] [:error] [pid 1787] [client 76.110.156.91:52432] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:32:59.586998 2018] [:error] [pid 1787] [client 76.110.156.91:52432] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:32:59.587009 2018] [:error] [pid 1787] [client 76.110.156.91:52432] PHP Warning:  Invalid argument supplied for foreach() in /var/www/ant-miner-hub/cart.php on line 13
+[Thu Apr 12 14:33:00.646042 2018] [:error] [pid 1787] [client 76.110.156.91:52432] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:33:00.646071 2018] [:error] [pid 1787] [client 76.110.156.91:52432] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:33:00.646078 2018] [:error] [pid 1787] [client 76.110.156.91:52432] PHP Warning:  Invalid argument supplied for foreach() in /var/www/ant-miner-hub/cart.php on line 13
+[Thu Apr 12 14:33:19.460063 2018] [:error] [pid 2570] [client 76.110.156.91:52461] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:33:19.460095 2018] [:error] [pid 2570] [client 76.110.156.91:52461] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:33:19.460106 2018] [:error] [pid 2570] [client 76.110.156.91:52461] PHP Warning:  Illegal string offset 's9' in /var/www/ant-miner-hub/cart.php on line 12
+[Thu Apr 12 14:33:19.460116 2018] [:error] [pid 2570] [client 76.110.156.91:52461] PHP Warning:  Invalid argument supplied for foreach() in /var/www/ant-miner-hub/cart.php on line 14
+[Thu Apr 12 14:33:36.706353 2018] [:error] [pid 1785] [client 76.110.156.91:52486] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:33:36.706384 2018] [:error] [pid 1785] [client 76.110.156.91:52486] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:33:36.706391 2018] [:error] [pid 1785] [client 76.110.156.91:52486] PHP Warning:  Illegal string offset 's9' in /var/www/ant-miner-hub/cart.php on line 12
+[Thu Apr 12 14:33:36.706401 2018] [:error] [pid 1785] [client 76.110.156.91:52486] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 12
+[Thu Apr 12 14:33:36.706479 2018] [:error] [pid 1785] [client 76.110.156.91:52486] PHP Warning:  Invalid argument supplied for foreach() in /var/www/ant-miner-hub/cart.php on line 14
+[Thu Apr 12 14:33:37.587359 2018] [:error] [pid 1785] [client 76.110.156.91:52486] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:33:37.588419 2018] [:error] [pid 1785] [client 76.110.156.91:52486] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 11
+[Thu Apr 12 14:33:37.588445 2018] [:error] [pid 1785] [client 76.110.156.91:52486] PHP Warning:  Illegal string offset 's9' in /var/www/ant-miner-hub/cart.php on line 12
+[Thu Apr 12 14:33:37.588452 2018] [:error] [pid 1785] [client 76.110.156.91:52486] PHP Warning:  Illegal string offset 'qty' in /var/www/ant-miner-hub/cart.php on line 12
+[Thu Apr 12 14:33:37.588457 2018] [:error] [pid 1785] [client 76.110.156.91:52486] PHP Warning:  Invalid argument supplied for foreach() in /var/www/ant-miner-hub/cart.php on line 14
+[Thu Apr 12 14:33:56.060274 2018] [:error] [pid 1788] [client 76.110.156.91:52519] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 15
+[Thu Apr 12 14:35:36.228861 2018] [:error] [pid 1786] [client 76.110.156.91:52677] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 15
+[Thu Apr 12 14:35:37.242103 2018] [:error] [pid 2568] [client 76.110.156.91:52678] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 15
+[Thu Apr 12 14:36:13.143555 2018] [:error] [pid 2171] [client 76.110.156.91:52741] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 15
+[Thu Apr 12 14:36:17.140799 2018] [:error] [pid 1786] [client 76.110.156.91:52742] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 15
+[Thu Apr 12 14:36:18.068135 2018] [:error] [pid 2170] [client 76.110.156.91:52750] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 15
+[Thu Apr 12 14:37:06.821903 2018] [:error] [pid 1787] [client 76.110.156.91:52832] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 15
+[Thu Apr 12 14:37:08.268349 2018] [:error] [pid 2171] [client 76.110.156.91:52833] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 15
+[Thu Apr 12 14:37:36.622208 2018] [:error] [pid 2170] [client 76.110.156.91:52881] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 15
+[Thu Apr 12 14:37:37.473108 2018] [:error] [pid 1810] [client 76.110.156.91:52882] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 15
+[Thu Apr 12 14:38:15.897377 2018] [:error] [pid 1787] [client 76.110.156.91:52939] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 22
+[Thu Apr 12 14:38:17.202332 2018] [:error] [pid 1785] [client 76.110.156.91:52940] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 22
+[Thu Apr 12 14:39:25.446136 2018] [:error] [pid 2171] [client 76.110.156.91:53047] PHP Parse error:  syntax error, unexpected '&', expecting ')' in /var/www/ant-miner-hub/cart.php on line 14
+[Thu Apr 12 14:39:41.586257 2018] [:error] [pid 1790] [client 76.110.156.91:53071] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 22
+[Thu Apr 12 14:39:58.526079 2018] [:error] [pid 1787] [client 76.110.156.91:53097] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 25
+[Thu Apr 12 14:41:41.222476 2018] [:error] [pid 1786] [client 76.110.156.91:53272] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 32
+[Thu Apr 12 14:41:58.094579 2018] [:error] [pid 1788] [client 76.110.156.91:53298] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 32
+[Thu Apr 12 14:42:13.835843 2018] [:error] [pid 1785] [client 76.110.156.91:53319] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 34
+[Thu Apr 12 14:42:30.572325 2018] [:error] [pid 1786] [client 76.110.156.91:53350] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/ant-miner-hub/cart.php on line 34
+[Thu Apr 12 14:43:25.704767 2018] [:error] [pid 2568] [client 76.110.156.91:53432] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 34
+[Thu Apr 12 14:43:25.704828 2018] [:error] [pid 2568] [client 76.110.156.91:53432] PHP Notice:  Undefined offset: 8 in /var/www/ant-miner-hub/cart.php on line 34
+[Thu Apr 12 14:43:25.704851 2018] [:error] [pid 2568] [client 76.110.156.91:53432] PHP Fatal error:  Cannot access empty property in /var/www/ant-miner-hub/cart.php on line 34
+[Thu Apr 12 14:44:52.032628 2018] [:error] [pid 1788] [client 76.110.156.91:53565] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 36
+[Thu Apr 12 14:44:54.849647 2018] [:error] [pid 2570] [client 76.110.156.91:53564] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 36
+[Thu Apr 12 14:45:26.928272 2018] [:error] [pid 1785] [client 76.110.156.91:53623] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 36
+[Thu Apr 12 14:45:27.707477 2018] [:error] [pid 2568] [client 76.110.156.91:53624] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /var/www/ant-miner-hub/cart.php on line 36
+[Thu Apr 12 14:45:42.973303 2018] [:error] [pid 1787] [client 76.110.156.91:53655] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in /var/www/ant-miner-hub/cart.php on line 33
+[Thu Apr 12 14:46:19.847743 2018] [:error] [pid 1788] [client 76.110.156.91:53710] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in /var/www/ant-miner-hub/cart.php on line 33
+[Thu Apr 12 14:46:44.238540 2018] [:error] [pid 1786] [client 76.110.156.91:53750] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in /var/www/ant-miner-hub/cart.php on line 34
+[Thu Apr 12 14:47:12.053353 2018] [:error] [pid 1785] [client 76.110.156.91:53793] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in /var/www/ant-miner-hub/cart.php on line 34
+[Thu Apr 12 14:49:25.652794 2018] [:error] [pid 1810] [client 76.110.156.91:53997] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in /var/www/ant-miner-hub/cart.php on line 34
+[Thu Apr 12 14:49:55.734574 2018] [:error] [pid 1787] [client 76.110.156.91:54041] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in /var/www/ant-miner-hub/cart.php on line 34
+[Thu Apr 12 14:49:56.961677 2018] [:error] [pid 1786] [client 76.110.156.91:54042] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in /var/www/ant-miner-hub/cart.php on line 34
+[Thu Apr 12 14:50:08.366610 2018] [:error] [pid 2568] [client 76.110.156.91:54064] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in /var/www/ant-miner-hub/cart.php on line 34
+[Thu Apr 12 14:50:09.071245 2018] [:error] [pid 1786] [client 76.110.156.91:54063] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in /var/www/ant-miner-hub/cart.php on line 34
+[Thu Apr 12 14:52:32.446950 2018] [:error] [pid 2171] [client 76.110.156.91:54281] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in /var/www/ant-miner-hub/cart.php on line 37
+[Thu Apr 12 14:53:04.468980 2018] [:error] [pid 1785] [client 76.110.156.91:54330] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 39
+[Thu Apr 12 14:53:04.469018 2018] [:error] [pid 1785] [client 76.110.156.91:54330] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 39
+[Thu Apr 12 14:53:04.469024 2018] [:error] [pid 1785] [client 76.110.156.91:54330] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 39
+[Thu Apr 12 14:53:04.469028 2018] [:error] [pid 1785] [client 76.110.156.91:54330] PHP Notice:  Undefined offset: 8 in /var/www/ant-miner-hub/cart.php on line 39
+[Thu Apr 12 14:53:04.469036 2018] [:error] [pid 1785] [client 76.110.156.91:54330] PHP Notice:  Undefined offset: 8 in /var/www/ant-miner-hub/cart.php on line 39
+[Thu Apr 12 14:53:04.469039 2018] [:error] [pid 1785] [client 76.110.156.91:54330] PHP Notice:  Undefined offset: 8 in /var/www/ant-miner-hub/cart.php on line 39
+[Thu Apr 12 14:53:04.469046 2018] [:error] [pid 1785] [client 76.110.156.91:54330] PHP Fatal error:  Cannot access empty property in /var/www/ant-miner-hub/cart.php on line 39
+[Thu Apr 12 14:53:31.671336 2018] [:error] [pid 1810] [client 76.110.156.91:54375] PHP Notice:  Trying to get property of non-object in /var/www/ant-miner-hub/cart.php on line 39
+[Thu Apr 12 14:53:31.671374 2018] [:error] [pid 1810] [client 76.110.156.91:54375] PHP Notice:  Undefined offset: 8 in /var/www/ant-miner-hub/cart.php on line 39
+[Thu Apr 12 14:53:31.671383 2018] [:error] [pid 1810] [client 76.110.156.91:54375] PHP Fatal error:  Cannot access empty property in /var/www/ant-miner-hub/cart.php on line 39
+[Thu Apr 12 14:55:57.971038 2018] [:error] [pid 1810] [client 76.110.156.91:54613] PHP Warning:  Invalid argument supplied for foreach() in /var/www/ant-miner-hub/user-message.php on line 165, referer: http://158.69.206.102/ant-miner-hub/order.php
+[Thu Apr 12 14:56:00.198506 2018] [:error] [pid 1788] [client 76.110.156.91:54618] PHP Warning:  Invalid argument supplied for foreach() in /var/www/ant-miner-hub/user-message.php on line 165, referer: http://158.69.206.102/ant-miner-hub/order.php
+[Thu Apr 12 14:56:02.563765 2018] [:error] [pid 2170] [client 76.110.156.91:54621] PHP Warning:  Invalid argument supplied for foreach() in /var/www/ant-miner-hub/user-message.php on line 165, referer: http://158.69.206.102/ant-miner-hub/order.php

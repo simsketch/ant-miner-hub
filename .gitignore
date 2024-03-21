@@ -1,0 +1,7 @@
+# Default .gitignore rules
+.git
+npm-debug.log
+.DS_Store
+/.vscode
+.env
+.history
